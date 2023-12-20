@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font2[] = {};
-static char *font = "Hack:pixelsize=25:antialias=true:autohint=true";
+static char *font = "Cascadia Code:pixelsize=25:antialias=true:autohint=true";
 static int borderpx = 2;
 //w3mimg
 static const char *w3mimgdisplay = "usr/lib/w3m/w3mimgdisplay";
